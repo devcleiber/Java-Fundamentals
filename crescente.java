@@ -18,5 +18,6 @@ public class crescente {
                 System.out.println("Números iguais! ");
             }
         } while (x != y);
+        sc.close();
     }
 }
