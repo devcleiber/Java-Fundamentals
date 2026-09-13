@@ -1,4 +1,4 @@
-import domain;
+package domain;
 
 public class Produto {
     public String nome;
