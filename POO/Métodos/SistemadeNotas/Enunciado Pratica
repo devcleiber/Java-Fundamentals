@@ -1,0 +1,44 @@
+Exercício — Sistema de Notas
+Crie um programa Java que simule o cálculo da média de um aluno.
+Você deverá criar métodos separados para cada responsabilidade:
+
+1. exibirNome() ----> Concluído!
+   - Deve receber o nome do aluno por parâmetro.
+   - Apenas exibe o nome.
+   - Use void.
+
+2. calcularMedia()  ----> Concluído!
+   - Deve receber 3 notas.
+   - Calcular a média.
+   - Deve retornar a média.
+
+3. verificarSituacao()  ----> Concluído!
+   - Deve receber a média.
+   - Se média ≥ 7 → "Aprovado"
+   - Se média ≥ 5 e < 7 → "Recuperação"
+   - Se média < 5 → "Reprovado"
+   - Deve retornar a situação.
+
+4. No main, você deve:  ----> Concluído!
+   - Criar as variáveis.
+   - Chamar exibirNome().
+   - Chamar calcularMedia() e guardar o resultado.
+   - Passar a média para verificarSituacao().
+   - Exibir o resultado final.
+
+Exemplo do resultado esperado
+Aluno: Cleiber
+Média: 7.6
+Situação: Aprovado
+
+Regras
+Não coloque toda a lógica dentro do main.
+A ideia é que você descubra sozinho:
+- quais métodos serão void;
+- quais precisarão de return;
+- quais parâmetros cada método recebe;
+- como guardar o valor retornado;
+- como um método pode usar o resultado de outro.
+
+Nível: 3/7.
+Não vou te passar o código pronto. Faz do seu jeito e me manda depois que eu corrijo e dou uma nota de 0 a 10, apontando exatamente onde você acertou e onde precisa melhorar.
