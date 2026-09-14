@@ -1,4 +1,4 @@
 {
-  "java.jdt.ls.vmargs": "-Xmx2048m",
+  "java.jdt.ls.vmargs": "-Xmx4096m",
   "java.debug.settings.onBuildFailureProceed": true
 }
