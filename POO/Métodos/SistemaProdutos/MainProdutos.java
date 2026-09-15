@@ -20,8 +20,9 @@ public class MainProdutos {
         double subtotal = produto.subtotalCompra(produto1, produto2, produto3);
         System.out.println("Subtotal: " + subtotal);
 
-        Double totalComDesconto = produto.descontoCompra;
-        System.out.println("Total com desconto: " + totalComDesconto);
+        // calculando desconto da compra.
+        double desconto = produto.descontoCompra(subtotal);
+        System.out.println("Desconto: " + desconto);
 
         // calculando total da compra.
         double total = produto.totalCompra(subtotal, desconto);
