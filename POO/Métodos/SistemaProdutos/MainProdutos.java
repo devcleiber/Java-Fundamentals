@@ -1,6 +1,6 @@
 package SistemaProdutos;
+import SistemaProdutos.domain.Produtos;
 
-import domain.Produtos;
 import java.util.Scanner;
 
 public class MainProdutos {

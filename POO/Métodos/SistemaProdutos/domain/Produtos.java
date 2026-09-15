@@ -1,4 +1,4 @@
-import domain;
+package SistemaProdutos.domain;
 
 public class Produtos {
     public double subtotalCompra(double produto1, double produto2, double produto3) {

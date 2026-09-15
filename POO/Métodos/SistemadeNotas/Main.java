@@ -1,6 +1,6 @@
 package SistemadeNotas;
 
-import domain.MediaAluno;
+import SistemadeNotas.domain.MediaAluno;
 
 public class Main {
     public static void main(String[] args) {
