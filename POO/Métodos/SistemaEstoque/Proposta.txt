@@ -1,0 +1,15 @@
+Crie uma classe Estoque com os atributos: ---concluído
+- nome,
+- preco
+- quantidade
+
+mantendo-os private e criando os respectivos getters e setters.
+Na Main, use Scanner para cadastrar os dados através dos setters e depois exiba as informações utilizando os getters.
+Crie também um método calcularTotal() que utilize preço e quantidade para retornar o valor total em estoque, e
+um método aplicarDesconto() que receba uma porcentagem de desconto, utilize uma condição para verificar se o desconto
+pode ser aplicado e atualize o preço do produto. Ao final, exiba os dados do produto e o valor total.
+
+Pratique: private, getters, setters, this, métodos com parâmetros e retorno, tipos primitivos,
+Scanner, if/else e organização entre Main e classe de domínio.
+
+Sem construtor, sem herança, sem ArrayList.
