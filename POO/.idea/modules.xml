@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Classes e Coesão/Exercicio Carros/Exercicio Carros.iml" filepath="$PROJECT_DIR$/Classes e Coesão/Exercicio Carros/Exercicio Carros.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Classes e Coesão/Exercicio Pessoas/Exercicio Pessoas.iml" filepath="$PROJECT_DIR$/Classes e Coesão/Exercicio Pessoas/Exercicio Pessoas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Classes e Coesão/Exercicio Produtos/Exercicio Produtos.iml" filepath="$PROJECT_DIR$/Classes e Coesão/Exercicio Produtos/Exercicio Produtos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes~Coesão/src/Exercicio Carros/Exercicio Carros.iml" filepath="$PROJECT_DIR$/Classes~Coesão/src/Exercicio Carros/Exercicio Carros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes~Coesão/src/Exercicio Pessoas/Exercicio Pessoas.iml" filepath="$PROJECT_DIR$/Classes~Coesão/src/Exercicio Pessoas/Exercicio Pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes~Coesão/src/Exercicio Produtos/Exercicio Produtos.iml" filepath="$PROJECT_DIR$/Classes~Coesão/src/Exercicio Produtos/Exercicio Produtos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos/src/SistemaEstoque/SistemaEstoque.iml" filepath="$PROJECT_DIR$/Métodos/src/SistemaEstoque/SistemaEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos/src/SistemaFuncionario/SistemaFuncionario.iml" filepath="$PROJECT_DIR$/Métodos/src/SistemaFuncionario/SistemaFuncionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos/src/SistemaProdutos/SistemaProdutos.iml" filepath="$PROJECT_DIR$/Métodos/src/SistemaProdutos/SistemaProdutos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Métodos/src/SistemadeNotas/SistemadeNotas.iml" filepath="$PROJECT_DIR$/Métodos/src/SistemadeNotas/SistemadeNotas.iml" />
     </modules>
   </component>
 </project>
