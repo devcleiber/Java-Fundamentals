@@ -40,41 +40,16 @@ O principal objetivo é construir uma base sólida em programação Java e, prog
 * 🔴 And more... | E muito mais...
 
 ---
-
-## 📂 Repository Structure | Estrutura do Repositório
-
-```text
-java-fundamentals/
-│
-├── sequential-structure/
-│   ├── exercise-01/
-│   ├── exercise-02/
-│   └── ...
-│
-├── conditional-structure/
-│   ├── exercise-01/
-│   ├── exercise-02/
-│   └── ...
-│
-├── loop-structure/
-│   ├── exercise-01/
-│   ├── exercise-02/
-│   └── ...
-│
-└── README.md
-```
-
 🇺🇸 The repository will evolve as I progress through my studies and learn new Java concepts.
 
 🇧🇷 O repositório evoluirá conforme eu avanço nos estudos e aprendo novos conceitos de Java.
-
 ---
 
 ## 🛠️ Technologies | Tecnologias
 
 * **Java**
 * **JDK 21**
-* **Visual Studio Code**
+* **InteliJ Idea**
 * **Git & GitHub**
 
 ---
